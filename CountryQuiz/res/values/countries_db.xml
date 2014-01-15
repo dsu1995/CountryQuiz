@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="countries">
+        <item>Afghanistan : Kabul : Asia : 33.0 : 65.0</item>
+        <item>Albania : Tirana : Europe : 41.0 : 20.0</item>
+        <item>Algeria : Algiers : Africa : 28.0 : 3.0</item>
+        <item>Andorra : Andorra la Vella : Europe : 42.5 : 1.5</item>
+        <item>Angola : Luanda : Africa : -12.5 : 18.5</item>
+        <item>Antigua and Barbuda : Saint John\'s : North America : 17.05 : -61.8</item>
+        <item>Argentina : Buenos Aires : South America : -34.0 : -64.0</item>
+        <item>Armenia : Yerevan : Europe : 40.0 : 45.0</item>
+        <item>Australia : Canberra : Oceania : -27.0 : 133.0</item>
+        <item>Austria : Vienna : Europe : 47.3333 : 13.3333</item>
+        <item>Azerbaijan : Baku : Europe : 40.5 : 47.5</item>
+        <item>The Bahamas : Nassau : North America : 24.25 : -76.0</item>
+        <item>Bahrain : Al-Manamah : Asia : 26.0 : 50.55</item>
+        <item>Bangladesh : Dhaka : Asia : 24.0 : 90.0</item>
+        <item>Barbados : Bridgetown : North America : 13.1667 : -59.5333</item>
+        <item>Belarus : Minsk : Europe : 53.0 : 28.0</item>
+        <item>Belgium : Brussels : Europe : 50.8333 : 4.0</item>
+        <item>Belize : Belmopan : North America : 17.25 : -88.75</item>
+        <item>Benin : Porto-Novo : Africa : 9.5 : 2.25</item>
+        <item>Bhutan : Thimphu : Asia : 27.5 : 90.5</item>
+        <item>Bolivia : La Paz/Sucre : South America : -17.0 : -65.0</item>
+        <item>Bosnia and Herzegovina : Sarajevo : Europe : 44.0 : 18.0</item>
+        <item>Botswana : Gaborone : Africa : -22.0 : 24.0</item>
+        <item>Brazil : Brasilia : South America : -10.0 : -55.0</item>
+        <item>Brunei : Bandar Seri Begawan : Asia : 4.5 : 114.6667</item>
+        <item>Bulgaria : Sofia : Europe : 43.0 : 25.0</item>
+        <item>Burkina Faso : Ouagadougou : Africa : 13.0 : -2.0</item>
+        <item>Burundi : Bujumbura : Africa : -3.5 : 30.0</item>
+        <item>Cambodia : Phnom Penh : Asia : 13.0 : 105.0</item>
+        <item>Cameroon : Yaounde : Africa : 6.0 : 12.0</item>
+        <item>Canada : Ottawa : North America : 60.0 : -95.0</item>
+        <item>Cape Verde : Praia : Africa : 16.0 : -24.0</item>
+        <item>Central African Republic : Bangui : Africa : 7.0 : 21.0</item>
+        <item>Chad : N\'Djamena : Africa : 15.0 : 19.0</item>
+        <item>Chile : Santiago : South America : -30.0 : -71.0</item>
+        <item>China : Beijing : Asia : 35.0 : 105.0</item>
+        <item>Colombia : Bogota : South America : 4.0 : -72.0</item>
+        <item>Comoros : Moroni : Africa : -12.1667 : 44.25</item>
+        <item>Republic of the Congo : Brazzaville : Africa : -1.0 : 15.0</item>
+        <item>Democratic Republic of the Congo : Kinshasa : Africa : -20.0 : 30.0</item>
+        <item>Costa Rica : San Jose : North America : 10.0 : -84.0</item>
+        <item>Cote d\'Ivoire/Ivory Coast : Abidjan : Africa : 8.0 : -5.0</item>
+        <item>Croatia : Zagreb : Europe : 45.1667 : 15.5</item>
+        <item>Cuba : Havana : North America : 21.5 : -80.0</item>
+        <item>Cyprus : Nicosia : Europe : 35.0 : 33.0</item>
+        <item>Czech Republic : Prague : Europe : 49.75 : 15.5</item>
+        <item>Denmark : Copenhagen : Europe : 56.0 : 10.0</item>
+        <item>Djibouti : Djibouti City : Africa : 11.5 : 43.0</item>
+        <item>Dominica : Roseau : North America : 15.4167 : -61.3333</item>
+        <item>Dominican Republic : Santo Domingo : North America : 19.0 : -70.6667</item>
+        <item>Timor-Leste/East Timor : Dili : Asia : -8.874217 : 125.72753899999998</item>
+        <item>Ecuador : Quito : South America : -2.0 : -77.5</item>
+        <item>Egypt : Cairo : Africa : 27.0 : 30.0</item>
+        <item>El Salvador : San Salvador : North America : 13.8333 : -88.9167</item>
+        <item>Equatorial Guinea : Malabo : Africa : 2.0 : 10.0</item>
+        <item>Eritrea : Asmara : Africa : 15.0 : 39.0</item>
+        <item>Estonia : Tallinn : Europe : 59.0 : 26.0</item>
+        <item>Ethiopia : Addis Ababa : Africa : 8.0 : 38.0</item>
+        <item>Fiji : Suva : Oceania : -18.0 : 175.0</item>
+        <item>Finland : Helsinki : Europe : 64.0 : 26.0</item>
+        <item>France : Paris : Europe : 46.0 : 2.0</item>
+        <item>Gabon : Libreville : Africa : -1.0 : 11.75</item>
+        <item>Gambia : Banjul : Africa : 13.4667 : -16.5667</item>
+        <item>Georgia : Tbilisi : Europe : 42.0 : 43.5</item>
+        <item>Germany : Berlin : Europe : 51.0 : 9.0</item>
+        <item>Ghana : Accra : Africa : 8.0 : -2.0</item>
+        <item>Greece : Athens : Europe : 39.0 : 22.0</item>
+        <item>Grenada : Saint George\'s : North America : 12.1167 : -61.6667</item>
+        <item>Guatemala : Guatemala City : North America : 15.5 : -90.25</item>
+        <item>Guinea : Conakry : Africa : 11.0 : -10.0</item>
+        <item>Guinea-Bissau : Bissau : Africa : 12.0 : -15.0</item>
+        <item>Guyana : Georgetown : South America : 5.0 : -59.0</item>
+        <item>Haiti : Port-au-Prince : North America : 19.0 : -72.4167</item>
+        <item>Honduras : Tegucigalpa : North America : 15.0 : -86.5</item>
+        <item>Hungary : Budapest : Europe : 47.0 : 20.0</item>
+        <item>Iceland : Reykjavik : Europe : 65.0 : -18.0</item>
+        <item>India : New Delhi : Asia : 20.0 : 77.0</item>
+        <item>Indonesia : Jakarta : Asia : -5.0 : 120.0</item>
+        <item>Iran : Tehran : Asia : 32.0 : 53.0</item>
+        <item>Iraq : Baghdad : Asia : 33.0 : 44.0</item>
+        <item>Ireland : Dublin : Europe : 53.0 : -8.0</item>
+        <item>Israel : Jerusalem : Asia : 31.5 : 34.75</item>
+        <item>Italy : Rome : Europe : 42.8333 : 12.8333</item>
+        <item>Jamaica : Kingston : North America : 18.25 : -77.5</item>
+        <item>Japan : Tokyo : Asia : 36.0 : 138.0</item>
+        <item>Jordan : Amman : Asia : 31.0 : 36.0</item>
+        <item>Kazakhstan : Astana : Asia : 48.0 : 68.0</item>
+        <item>Kenya : Nairobi : Africa : 1.0 : 38.0</item>
+        <item>Kiribati : Tarawa : Oceania : 1.4167 : 173.0</item>
+        <item>North Korea : Pyongyang : Asia : 40.0 : 127.0</item>
+        <item>South Korea : Seoul : Asia : 37.0 : 127.5</item>
+        <item>Kosovo : Pristina : Europe : 42.6026359 : 20.902976999999964</item>
+        <item>Kuwait : Kuwait City : Asia : 29.3375 : 47.6581</item>
+        <item>Kyrgyzstan : Bishkek : Asia : 41.0 : 75.0</item>
+        <item>Laos : Vientiane : Asia : 18.0 : 105.0</item>
+        <item>Latvia : Riga : Europe : 57.0 : 25.0</item>
+        <item>Lebanon : Beirut : Asia : 33.8333 : 35.8333</item>
+        <item>Lesotho : Maseru : Africa : -29.5 : 28.5</item>
+        <item>Liberia : Monrovia : Africa : 6.5 : -9.5</item>
+        <item>Libya : Tripoli : Africa : 26.3351 : 17.228331000000026</item>
+        <item>Liechtenstein : Vaduz : Europe : 47.1667 : 9.5333</item>
+        <item>Lithuania : Vilnius : Europe : 56.0 : 24.0</item>
+        <item>Luxembourg : Luxembourg : Europe : 49.75 : 6.1667</item>
+        <item>Macedonia : Skopje : Europe : 41.8333 : 22.0</item>
+        <item>Madagascar : Antananarivo : Africa : -20.0 : 47.0</item>
+        <item>Malawi : Lilongwe : Africa : -13.5 : 34.0</item>
+        <item>Malaysia : Kuala Lumpur : Asia : 2.5 : 112.5</item>
+        <item>Maldives : Male : Asia : 3.25 : 73.0</item>
+        <item>Mali : Bamako : Africa : 17.0 : -4.0</item>
+        <item>Malta : Valletta : Europe : 35.8333 : 14.5833</item>
+        <item>Marshall Islands : Majuro : Oceania : 9.0 : 168.0</item>
+        <item>Mauritania : Nouakchott : Africa : 20.0 : -12.0</item>
+        <item>Mauritius : Port Louis : Africa : -20.2833 : 57.55</item>
+        <item>Mexico : Mexico City : North America : 23.0 : -102.0</item>
+        <item>Micronesia : Palikir : Oceania : 6.9167 : 158.25</item>
+        <item>Moldova : Chisinau : Europe : 47.0 : 29.0</item>
+        <item>Monaco : Monaco : Europe : 43.7333 : 7.4</item>
+        <item>Mongolia : Ulaanbaatar/Ulan Bator : Asia : 46.0 : 105.0</item>
+        <item>Montenegro : Podgorica : Europe : 42.708678 : 19.37438999999995</item>
+        <item>Morocco : Rabat : Africa : 32.0 : -5.0</item>
+        <item>Mozambique : Maputo : Africa : -18.25 : 35.0</item>
+        <item>Myanmar/Burma : Rangoon/Yangon/Nay Pyi Taw : Asia : 22.0 : 98.0</item>
+        <item>Namibia : Windhoek : Africa : -22.0 : 17.0</item>
+        <item>Nauru : Yaren : Oceania : -0.5333 : 166.9167</item>
+        <item>Nepal : Kathmandu : Asia : 28.0 : 84.0</item>
+        <item>The Netherlands : Amsterdam : Europe : 52.5 : 5.75</item>
+        <item>New Zealand : Wellington : Oceania : -41.0 : 174.0</item>
+        <item>Nicaragua : Managua : North America : 13.0 : -85.0</item>
+        <item>Niger : Niamey : Africa : 16.0 : 8.0</item>
+        <item>Nigeria : Abuja : Africa : 10.0 : 8.0</item>
+        <item>Norway : Oslo : Europe : 62.0 : 10.0</item>
+        <item>Oman : Muscat : Asia : 21.0 : 57.0</item>
+        <item>Pakistan : Islamabad : Asia : 30.0 : 70.0</item>
+        <item>Palau : Melekeok : Oceania : 7.5 : 134.5</item>
+        <item>Panama : Panama City : North America : 9.0 : -80.0</item>
+        <item>Papua New Guinea : Port Moresby : Oceania : -6.0 : 147.0</item>
+        <item>Paraguay : Asuncion : South America : -23.0 : -58.0</item>
+        <item>Peru : Lima : South America : -10.0 : -76.0</item>
+        <item>The Philippines : Manila : Asia : 13.0 : 122.0</item>
+        <item>Poland : Warsaw : Europe : 52.0 : 20.0</item>
+        <item>Portugal : Lisbon : Europe : 39.5 : -8.0</item>
+        <item>Qatar : Doha : Asia : 25.5 : 51.25</item>
+        <item>Romania : Bucharest : Europe : 46.0 : 25.0</item>
+        <item>Russia : Moscow : Asia/Europe : 60.0 : 100.0</item>
+        <item>Rwanda : Kigali : Africa : -2.0 : 30.0</item>
+        <item>Saint Kitts and Nevis : Basseterre : North America : 17.3333 : -62.75</item>
+        <item>Saint Lucia : Castries : North America : 13.8833 : -61.1333</item>
+        <item>Saint Vincent and the Grenadines : Kingstown : North America : 13.25 : -61.2</item>
+        <item>Samoa : Apia : Oceania : -13.5833 : -172.3333</item>
+        <item>San Marino : San Marino : Europe : 43.7667 : 12.4167</item>
+        <item>Sao Tome and Principe : Sao Tome : Africa : 1.0 : 7.0</item>
+        <item>Saudi Arabia : Riyadh : Asia : 25.0 : 45.0</item>
+        <item>Senegal : Dakar : Africa : 14.0 : -14.0</item>
+        <item>Serbia : Belgrade : Europe : 44.016521 : 21.005858999999987</item>
+        <item>Seychelles : Victoria : Africa : -4.5833 : 55.6667</item>
+        <item>Sierra Leone : Freetown : Africa : 8.5 : -11.5</item>
+        <item>Singapore : Singapore : Asia : 1.3667 : 103.8</item>
+        <item>Slovakia : Bratislava : Europe : 48.6667 : 19.5</item>
+        <item>Slovenia : Ljubljana : Europe : 46.0 : 15.0</item>
+        <item>Solomon Islands : Honiara : Oceania : -8.0 : 159.0</item>
+        <item>Somalia : Mogadishu : Africa : 10.0 : 49.0</item>
+        <item>South Africa : Pretoria/Cape Town/Bloemfontein : Africa : -29.0 : 24.0</item>
+        <item>South Sudan : Juba : Africa : 7.9630921 : 30.158930300000065</item>
+        <item>Spain : Madrid : Europe : 40.0 : -4.0</item>
+        <item>Sri Lanka : Colombo/Sri Jayewardenepura Kotte : Asia : 7.0 : 81.0</item>
+        <item>Sudan : Khartoum : Africa : 15.0 : 30.0</item>
+        <item>Suriname : Paramaribo : South America : 4.0 : -56.0</item>
+        <item>Swaziland : Mbabane : Africa : -26.5 : 31.5</item>
+        <item>Sweden : Stockholm : Europe : 62.0 : 15.0</item>
+        <item>Switzerland : Bern : Europe : 47.0 : 8.0</item>
+        <item>Syria : Damascus : Asia : 35.0 : 38.0</item>
+        <item>Taiwan : Taipei : Asia : 23.5 : 121.0</item>
+        <item>Tajikistan : Dushanbe : Asia : 39.0 : 71.0</item>
+        <item>Tanzania : Dar es Salaam/Dodoma : Africa : -6.0 : 35.0</item>
+        <item>Thailand : Bangkok : Asia : 15.0 : 100.0</item>
+        <item>Togo : Lome : Africa : 8.0 : 1.1667</item>
+        <item>Tonga : Nuku\'alofa : Oceania : -20.0 : -175.0</item>
+        <item>Trinidad and Tobago : Port-of-Spain : North America : 11.0 : -61.0</item>
+        <item>Tunisia : Tunis : Africa : 34.0 : 9.0</item>
+        <item>Turkey : Ankara : Asia/Europe : 39.0 : 35.0</item>
+        <item>Turkmenistan : Ashgabat : Asia : 40.0 : 60.0</item>
+        <item>Tuvalu : Funafuti : Oceania : -8.0 : 178.0</item>
+        <item>Uganda : Kampala : Africa : 1.0 : 32.0</item>
+        <item>Ukraine : Kyiv/Kiev : Europe : 49.0 : 32.0</item>
+        <item>United Arab Emirates : Abu Dhabi : Asia : 24.0 : 54.0</item>
+        <item>United Kingdom : London : Europe : 54.0 : -2.0</item>
+        <item>United States of America/United States/America : Washington D.C./Washington : North America : 38.0 : -97.0</item>
+        <item>Uruguay : Montevideo : South America : -33.0 : -56.0</item>
+        <item>Uzbekistan : Tashkent : Asia : 41.0 : 64.0</item>
+        <item>Vanuatu : Port-Vila : Oceania : -16.0 : 167.0</item>
+        <item>Vatican City/Holy See : Vatican City : Europe : 41.9 : 12.45</item>
+        <item>Venezuela : Caracas : South America : 8.0 : -66.0</item>
+        <item>Vietnam : Hanoi : Asia : 16.0 : 106.0</item>
+        <item>Yemen : Sanaa : Asia : 15.0 : 48.0</item>
+        <item>Zambia : Lusaka : Africa : -15.0 : 30.0</item>
+        <item>Zimbabwe : Harare : Africa : -19.015438 : 29.154856999999993</item>
+    </string-array>
+
+</resources>

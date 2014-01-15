@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/media/david/ADATA USB/ICS4U/Summative App/.metadata/.plugins/org.eclipse.jdt.core
+457990200.index
+2797901020.index
+2382939674.index

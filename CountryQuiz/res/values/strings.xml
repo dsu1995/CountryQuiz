@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">David Su Country Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings_text">Settings</string>
+    <string name="question_text">Question </string>
+    <string name="question_type_text">Question Type</string>
+    <string name="answer_text">Answer</string>
+    <string name="answer_type_text">Answer Type</string>
+    <string name="start_text">Start</string>
+    <string name="title_activity_game">Country Quiz</string>
+    <string name="restart_string">Restart Quiz</string>
+
+    <string-array name="question_array">
+        <item>Country (10 points)</item>
+        <item>Capital City (10 points)</item>
+        <item>Flag (20 points)</item>
+        <item>Country Marked on Map (20 points)</item>
+    </string-array>
+    <string-array name="question_type_array">
+        <item>Text (0 points)</item>
+        <item>Speech (5 points)</item>
+    </string-array>
+    <string-array name="answer_array">
+        <item>Country (10 points)</item>
+        <item>Capital City (10 points)</item>
+        <item>Continent (5 points)</item>
+    </string-array>
+    <string-array name="answer_type_array">
+        <item>Keyboard (5 points)</item>
+        <item>Multiple Choice(0 points)</item>
+    </string-array>
+
+    <string name="points_string">&quot;Points Earned per Question: &quot;</string>
+    <string name="invalid_string">Invalid Selection</string>
+    <string name="tts_button_string">Press Button to Hear Question</string>
+    <string name="skip_question_string">Skip this Question</string>
+    <string name="country_string">Country: </string>
+    <string name="capital_answer_hint_string">Enter the capital here</string>
+    <string name="incorrect_answer_string">Incorrect Answer!</string>
+    <string name="ok_string">OK</string>
+    <string name="correct_answer_string">Correct!</string>
+    <string name="reveal_answer_string">The correct answer is: </string>
+    <string name="score_string">Score:</string>
+    <string name="summary_string">You finished the game with a score of: %1$s. \n Congratulations! You are at a Grade %2$s level.</string>
+    <string name="title_activity_summary">Post-Quiz Report</string>
+    <string name="capital_string">Capital:</string>
+    <string name="country_answer_hint_string">Enter the country</string>
+    <string name="country_tts_button_string">Tap to hear country name</string>
+    <string name="capital_tts_button_string">Tap to hear capital city name</string>
+    <string name="continent_answer_hint_string">Enter the continent here</string>
+    <string name="flag_string">Flag</string>
+    <string-array name="continents_array">
+        <item >Asia</item>
+        <item >Africa</item>
+        <item >North America</item>
+        <item >South America</item>
+        <item >Europe</item>
+        <item >Oceania</item>
+    </string-array>
+
+</resources>
